@@ -20,7 +20,6 @@ $(document).ready(function(){
 			}
 			else{
 				alert("用戶名或密碼錯誤！");
-				window.location.href = "index.html";
 			}
 			/*var user = $("input[type='radio']:checked").val();
 			var type = 0;
